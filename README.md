@@ -1,6 +1,6 @@
-<h1>Hi</h1>
+<h1 color="red">Hi</h1>
 
-Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e criando projetos com: 
+<p color="red">Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e criando projetos com:</p> 
 
  <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/92da7343-2669-4b8e-b7f3-e38dfb5a0d34" />  HTML
 
@@ -13,7 +13,8 @@ Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e cr
 
 E iniciando na linguage de programção: 
 
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/52faf782-93d4-4fa9-965d-4e3b6206a94a" />  JavaScript.
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/8ca3bcfb-23ee-4034-ad0b-b7fbca6cc18b" />
+ JavaScript.
 
 
 
