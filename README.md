@@ -1,4 +1,4 @@
-Hi
+Oi
 
 Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e criando projetos com:
 
@@ -8,8 +8,13 @@ Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e cr
 
 E iniciando na linguage de programção: 
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8ca3bcfb-23ee-4034-ad0b-b7fbca6cc18b" />
- JavaScript.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Paulonunes739&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulonunes739&layout=compact&theme=tokyonight" />
+</p>
