@@ -6,7 +6,7 @@ Eu sou o Paulo Nunes, sou programador Front End, atualmente estou aprendedo e cr
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6d74e0cd-4660-43fc-b837-48469b806bdc" /> CSS
 
-E iniciando na linguage de programção: 
+E iniciando na linguagem de programção: 
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
